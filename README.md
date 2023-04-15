@@ -9,7 +9,7 @@ Webpage to provide a simple Unity3D WebGL sample
 
 
 # Run
-https://potion2.github.io
+https://potion2.github.io/2021
 
 
 # Resources
