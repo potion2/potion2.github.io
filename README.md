@@ -2,7 +2,7 @@
 Webpage to provide a simple Unity3D WebGL sample
 
 ![View02_001](https://user-images.githubusercontent.com/58328950/230435264-f0e512a4-d0d0-462b-bc5c-2d778d3da62e.jpg)
-![View02_002](https://user-images.githubusercontent.com/58328950/230435271-85166121-933e-45a3-b11e-7a0e2faceabf.jpg)
+![IMG_0216](https://user-images.githubusercontent.com/58328950/232176410-d8e6486c-ac34-4b6b-b817-e61e7f7987a4.jpg)
 
 
 # Changes
